@@ -1,9 +1,9 @@
 # Twig - Twitter for IITG community
 
-To start, first run mongo by typing in the terminal **"sudo service mongod start".**
+To start, first run **"npm run dev".**
 
 
-Next run **"npm run dev".**
+Next run mongo by typing in the terminal **"sudo service mongod start".**
 
 
 Finally, start the live server of the index.html
